@@ -8,9 +8,11 @@ sitemap: false
 permalink: /books/
 ---
 
-## 아래 책을 클릭 해 주세요.
-* [파타고니아]{:.heading.flip-title} --- 파타고니아
+* [파타고니아]{:.heading.flip-title} --- 파타고니아 (내용발제)
+* [부러진피켈]{:.heading.flip-title} --- 부러진 피켈 - 영원한 산악인 윤치원 평전 (내용발제)
+* [황금피켈]{:.heading.flip-title} --- 소설 황금피켈 (기조발제)
 {:.related-posts.faded}
 
 [파타고니아]: 파타고니아.md
-
+[부러진피켈]: 부러진피켈.md
+[황금피켈]: 황금피켈.md
