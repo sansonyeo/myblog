@@ -48,12 +48,12 @@ author:
 
 # Add links to the sidebar.
 menu:
-#  - title:             Mountain
-#    url:               /mountain/
   - title:             Story
     url:               /story/
   - title:             Books
     url:               /books/
+  - title:             Documentation
+    url:               /docs/
 #menu:
 #  - title:             Example
 #    url:               /example/
