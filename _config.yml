@@ -52,8 +52,8 @@ menu:
     url:               /story/
   - title:             Books
     url:               /books/
-  - title:             Documentation
-    url:               /docs/
+#  - title:             Documentation
+#    url:               /docs/
 #menu:
 #  - title:             Example
 #    url:               /example/
