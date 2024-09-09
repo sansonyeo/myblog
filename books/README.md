@@ -2,12 +2,13 @@
 layout: page
 title: Books
 description: >
-  »ê¾Çµµ¼­¿¡ °üÇÑ ÀÌ·± Àú·± ÀÌ¾ß±â ÀÔ´Ï´Ù.
+  ì‚°ì•…ë„ì„œì— ê´€í•œ ì´ëŸ° ì €ëŸ° ì´ì•¼ê¸° ìž…ë‹ˆë‹¤.
 hide_description: true
 sitemap: false
 permalink: /books/
 ---
 
-[ÆÄÅ¸°í´Ï¾Æ]: ÆÄÅ¸°í´Ï¾Æ.md
-[ºÎ·¯Áø ÇÇÄÌ]: ºÎ·¯ÁøÇÇÄÌ.md
-[È²±ÝÇÇÄÌ]: È²±ÝÇÇÄÌ.md
+[íŒŒíƒ€ê³ ë‹ˆì•„]: íŒŒíƒ€ê³ ë‹ˆì•„.md
+[ë¶€ëŸ¬ì§„ í”¼ì¼ˆ]: ë¶€ëŸ¬ì§„í”¼ì¼ˆ.md
+[í™©ê¸ˆí”¼ì¼ˆ]: í™©ê¸ˆí”¼ì¼ˆ.md
+
