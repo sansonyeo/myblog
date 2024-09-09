@@ -52,8 +52,8 @@ menu:
     url:               /story/
   - title:             Books
     url:               /books/
-  - title:             Whitespider
-    url:               /whitespider/
+  - title:             하얀거미
+    url:               /하얀거미/
 #  - title:             Documentation
 #    url:               /docs/
 #menu:
