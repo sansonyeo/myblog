@@ -2,7 +2,7 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <JINYOUNG> <YUN>
+  name:              윤진영
   email:             <whitedovey@gmail.com>
 
   # Used at the bottom of each page and at the top of the `about` layout
@@ -27,8 +27,8 @@ author1:
   # Rearrange to change the order in which they appear
   # You can also provide an absolute URL (starting with https://) instead of usernames
   social:
-    twitter:         <whitedove95>
-    github:          <sansonyeo>
+    twitter:         whitedove95
+    github:          sansonyeo
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
@@ -93,5 +93,5 @@ author1:
 #    Open `_data/authors.yml` to edit this text.
 
 #  picture:           https://placehold.it/128x128
-  twitter:           <whitedove95>
-  github:            <sansonyeo>
+  twitter:           whitedove95
+  github:            sansonyeo
