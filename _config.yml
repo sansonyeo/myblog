@@ -3,13 +3,13 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-#url:                   https://sansonyeo.github.io
+# url:                   https://username.github.io
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-# baseurl:               '/myblog'
+# baseurl:               '/hydejack-starter-kit'
 
 
 # General settings
@@ -17,18 +17,19 @@
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  ko-KR
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Sansonyeo's Blog # Starter Kit JYYUN modify
+title:                 Sansonyeo's Blog
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  I am a mountain girl who likes Mt.Seorak and Mt.Jiri.
+  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
+  with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               # Change `tagline` in `_config.yml` JYYUN modify
+# tagline:               Change `tagline` in `_config.yml`
 
 # A list of keywords for your blog
 keywords:              []
@@ -46,7 +47,6 @@ author:
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
-# JYYun Modify
 # Add links to the sidebar.
 menu:
   - title:             Example
@@ -55,11 +55,6 @@ menu:
     url:               /docs/
   - title:             About
     url:               /about/
-# menu:
-#  - title:             Mountain
-#    url:               /mountain/
-#  - title:             산악도서
-#    url:               /books/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -86,8 +81,7 @@ paginate_path:         /:num/
 # ---------------------------------------------------------------------------------------
 
 # This will use the gem `jekyll-theme-hydejack`, as defined in the sibling `Gemfile`.
-# theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9 # JYYun Add
+theme: jekyll-theme-hydejack
 
 # You can uncomment `theme` above and replace it with `remote_theme` here iff you are using the 
 # `jekyll-remote-theme` plugin (which is the case when using the legacy GitHub Pages pipeline).
@@ -356,8 +350,8 @@ plugins:
 #   yandex:              <verification-id>
 
 # Used for twitter cards
- twitter:
-   username:            whitedove95
+# twitter:
+#   username:            <username>
 
 # Used for facebook open graph
 # facebook:
@@ -365,13 +359,12 @@ plugins:
 #   publisher:           <id>
 #   admins:              <id>
 
-# JYYun Modify
 # Used on index and about sites
- social:
-   name:                <Jinyoung> <YUN>
-   links:
-     - https://twitter.com/whitedove95
-     - https://github.com/sansonyeo
+# social:
+#   name:                <firstname> <lastname>
+#   links:
+#     - https://twitter.com/<username>
+#     - https://github.com/<username>
 
 
 # Plugin Configs
@@ -428,4 +421,4 @@ jekyll_compose:
         path: /assets/img/sidebar-bg.jpg
       links:
         - title: Project Link
-          url: https://mt8848.kr
+          url: https://example.com
